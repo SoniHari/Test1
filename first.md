@@ -5,4 +5,4 @@
 ![](.gitbook/assets/add-permission-group.png)
 
 ![](.gitbook/assets/deletegroup.png)
-<img src=".\image\EditGroup.png">
+<img src="./Image/EditGroup.png">
