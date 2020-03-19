@@ -4,5 +4,5 @@
 
 ![](.gitbook/assets/deletegroup.png)
 
-![](.gitbook/assets/editgroup.png)
+![Edit](.gitbook/assets/editgroup.png)
 
